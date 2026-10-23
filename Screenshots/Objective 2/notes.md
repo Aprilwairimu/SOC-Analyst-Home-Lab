@@ -1,0 +1,3 @@
+**Conclusion**
+
+Identified the IP addresses and network configuration of the lab environment. Kali Linux was assigned 192.168.32.128/24, while the Windows VMware NAT interface used 192.168.32.1/24. A connectivity test from Kali Linux to 192.168.32.1 returned four successful replies with 0% packet loss, confirming connectivity to the VMware NAT gateway. This exercise strengthened my understanding of IP addressing, network subnets, and connectivity testing.
