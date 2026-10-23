@@ -1,0 +1,3 @@
+**Conclusion**
+
+Used Nmap to scan the lab target and identify exposed network ports and associated services. The scan identified open ports 135, 139, 445, 5357, and 7070. Service detection provided further information about the services responding on the target, including Microsoft HTTPAPI on port 5357. This exercise provided practical experience in network reconnaissance and identifying potentially exposed services for further security assessment.
